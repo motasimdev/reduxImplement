@@ -11,7 +11,7 @@ function App() {
       <div className="bg-teal-500 h-[100vh]">
         <div className="max-w-[1170px] m-auto">
           <div>
-            <div className="flex pt-[350px] justify-center">
+            <div className="flex pt-[280px] justify-center">
               <button
                 className="p-5 bg-amber-600 rounded-2xl shadow shadow-amber-700 cursor-pointer"
                 aria-label="Decrement value"
