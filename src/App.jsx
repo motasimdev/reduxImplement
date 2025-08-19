@@ -11,7 +11,7 @@ function App() {
       <div className="bg-teal-500 h-[100vh]">
         <div className="max-w-[1170px] m-auto">
           <div>
-            <div className="flex pt-10 justify-center">
+            <div className="flex pt-[350px] justify-center">
               <button
                 className="p-5 bg-amber-600 rounded-2xl shadow shadow-amber-700 cursor-pointer"
                 aria-label="Decrement value"
@@ -19,7 +19,7 @@ function App() {
               >
                 Decrement
               </button>
-              <span className="text-3xl w-[50px] text-center text-emerald-800">
+              <span className="text-3xl w-[50px] text-center text-emerald-800 mx-10">
                 {count}
               </span>
               <button
